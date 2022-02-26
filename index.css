@@ -42,3 +42,8 @@ a:hover {
   border-radius: 10px;
   border-color: none;
 }
+.me {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
