@@ -58,3 +58,25 @@ hr {
   margin-top: -18px;
   background-color: pink;
 }
+display: flex;
+flex-direction: row;
+}
+.pic img {
+width: 300px;
+height: 350px;
+border-radius: 10px;
+}
+.words {
+text-align: center;
+margin-right: 70px;
+margin-top: 40px;
+}
+.cv button{
+background-color: pink;
+width: 180px;
+height: 27px;
+border: 0px;
+border: none;
+margin-left: 10px;
+border-radius: 10px;
+}
