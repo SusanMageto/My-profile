@@ -81,3 +81,11 @@ border: none;
 margin-left: 10px;
 border-radius: 10px;
 }
+.projects {
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+  justify-content: space-between;
+  margin-top: 30px;
+  text-align: center;
+}
