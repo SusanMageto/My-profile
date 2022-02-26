@@ -14,3 +14,9 @@ body {
   flex-direction: row;
   margin-bottom: 100px;
 }
+span {
+  color: rgb(212, 169, 176);
+}
+.port {
+  margin-right: 350px;
+}
