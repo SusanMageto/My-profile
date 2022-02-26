@@ -2,10 +2,15 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 .big {
-  background: url(./images/WhatsApp\ Image\ 2022-02-25\ at\ 10.37.24\ PM.jpeg);
+  background: url(/images/WhatsApp\ Image\ 2022-02-25\ at\ 10.37.24\ PM.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: contain;
   height: 400px;
   background-position: 0 -20px;
+}
+.first {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 100px;
 }
